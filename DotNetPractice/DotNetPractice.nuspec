@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Microsoft.DotNetPractice.IsEven</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>jabecker</authors>
+    <owners>jabecker</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Most useful applciation ever for learning if number is even.</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>application app even math</tags>
+  </metadata>
+</package>

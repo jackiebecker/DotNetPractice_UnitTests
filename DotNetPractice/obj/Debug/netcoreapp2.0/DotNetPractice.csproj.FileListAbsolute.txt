@@ -1,0 +1,9 @@
+C:\Users\jabecker\source\repos\DotNetPractice\DotNetPractice\bin\Debug\netcoreapp2.0\DotNetPractice.deps.json
+C:\Users\jabecker\source\repos\DotNetPractice\DotNetPractice\bin\Debug\netcoreapp2.0\DotNetPractice.dll
+C:\Users\jabecker\source\repos\DotNetPractice\DotNetPractice\bin\Debug\netcoreapp2.0\DotNetPractice.pdb
+C:\Users\jabecker\source\repos\DotNetPractice\DotNetPractice\obj\Debug\netcoreapp2.0\DotNetPractice.csprojResolveAssemblyReference.cache
+C:\Users\jabecker\source\repos\DotNetPractice\DotNetPractice\obj\Debug\netcoreapp2.0\DotNetPractice.csproj.CoreCompileInputs.cache
+C:\Users\jabecker\source\repos\DotNetPractice\DotNetPractice\obj\Debug\netcoreapp2.0\DotNetPractice.AssemblyInfoInputs.cache
+C:\Users\jabecker\source\repos\DotNetPractice\DotNetPractice\obj\Debug\netcoreapp2.0\DotNetPractice.AssemblyInfo.cs
+C:\Users\jabecker\source\repos\DotNetPractice\DotNetPractice\obj\Debug\netcoreapp2.0\DotNetPractice.dll
+C:\Users\jabecker\source\repos\DotNetPractice\DotNetPractice\obj\Debug\netcoreapp2.0\DotNetPractice.pdb
